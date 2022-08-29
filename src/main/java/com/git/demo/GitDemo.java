@@ -3,8 +3,8 @@ package com.git.demo;
 public class GitDemo {
 
 	public void showData(String msg) {
-		System.out.println("Message::"+msg);
-		if(msg.equals("user")) {
+		
+		if(msg.equals(VarConstant.DATA_VAL)) {
 			System.out.println("Welcome..");
 		}
 	}
