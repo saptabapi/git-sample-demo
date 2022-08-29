@@ -8,6 +8,9 @@ public class GitDemo {
 			System.out.println("Welcome..");
 		}
 	}
+	public void data(){
+		System.out.println("Welcome..to git..");
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
